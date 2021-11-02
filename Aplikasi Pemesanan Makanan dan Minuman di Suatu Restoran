@@ -9,8 +9,8 @@
    - Laporan
    - Catatan keuangan
    - Logout
-2.Client = kelompok 9
-   Developers = kelompok 7 
+2.Client = kelompok 7
+   Developers = kelompok 9 
    *Bagian User
   -login
   -menu makanan/minuman
@@ -22,4 +22,5 @@
   -dasboard 
   -data menu 
   -data pemesanan
+  -pembayaran
   -logout
